@@ -1,0 +1,11 @@
+{
+    "name":"Down.YT",
+    "developer": {
+        "name":"Direct downloads from YouTube",
+        "url":"http://down.yt"
+    },
+    "description":"Download YouTube videos in mp3 or other formats",
+    "icons":{
+        "128":"/icon.png"
+    }
+}
